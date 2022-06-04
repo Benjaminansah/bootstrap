@@ -4,8 +4,11 @@
   "version": "5.2.0-beta1",
   "config": {
     "version_short": "5.2"
+    
   },
+  
   "keywords": [
+    
     "css",
     "sass",
     "mobile-first",
